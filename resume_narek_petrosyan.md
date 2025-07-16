@@ -6,7 +6,7 @@
 
 ## Summary
 
-Senior **Quality Assurance** professional with **10+ years** verifying and safeguarding data‑intensive SaaS, ad‑tech, fintech, and gaming products. I design end‑to‑end strategies—including **600 + case** regression suites, **Cypress / Selenium** automation, API and ETL validation—to keep releases safe across QA, staging, and production. Hands‑on with **Snowflake SQL**, Python, Postman, and CI/CD pipelines; comfortable root‑causing complex UDF, database, and micro‑service defects that impact millions of records. Known for mentoring teams, writing clear test plans, and driving cross‑timezone releases that greatly cut defect escape rates while accelerating delivery. My goal: translate business risk into actionable quality metrics and continuously raise the engineering bar.
+Senior **Quality Assurance** professional with **10+ years** verifying and safeguarding data‑intensive SaaS, ad‑tech, fintech, and gaming products. I design end‑to‑end strategies—including **600+ case** regression suites, exploratory test plan setup, Playwright automation, API and ETL validation to keep releases safe across QA, staging and production. Hands‑on with Snowflake SQL, Python, Postman and CI/CD pipelines; comfortable root‑causing complex UDF, database, and micro‑service defects that impact millions of records. Known for mentoring teams, writing clear test plans, and driving cross‑timezone releases that greatly cut defect escape rates while accelerating delivery. My goal: translate business risk into actionable quality metrics and continuously raise the engineering bar.
 
 ---
 
