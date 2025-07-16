@@ -6,7 +6,7 @@
 
 ## Summary
 
-Senior **Quality Assurance** professional with **10+ years** verifying and safeguarding data‑intensive SaaS, ad‑tech, fintech, and gaming products. I design end‑to‑end strategies—including **600+ case** regression suites, exploratory test plan setup, Playwright automation, API and ETL validation to keep releases safe across QA, staging and production. Hands‑on with Snowflake SQL, Python, Postman and CI/CD pipelines; comfortable root‑causing complex UDF, database, and micro‑service defects that impact millions of records. Known for mentoring teams, writing clear test plans, and driving cross‑timezone releases that greatly cut defect escape rates while accelerating delivery. My goal: translate business risk into actionable quality metrics and continuously raise the engineering bar.
+Senior **Quality Assurance** professional with 10+ years verifying and safeguarding data‑intensive SaaS, ad‑tech, fintech, and gaming products. I design end‑to‑end strategies - including 600+ case regression suites, exploratory test plan setup, Playwright automation, API and ETL validation to keep releases safe across QA, staging and production. Hands‑on with Snowflake SQL, Python, Postman and CI/CD pipelines; comfortable root‑causing complex UDF, database, and micro‑service defects that impact millions of records. Known for mentoring teams, writing clear test plans, and driving cross‑timezone releases that greatly cut defect escape rates while accelerating delivery. My goal: translate business risk into actionable quality metrics and continuously raise the engineering bar.
 
 ---
 
@@ -31,10 +31,10 @@ Senior **Quality Assurance** professional with **10+ years** verifying and saf
 ### **Senior QA Engineer – FourthWall**  
 *2022 – 2025*  
 - Owned quality for a 7‑10 person squad building cross‑platform ad‑tech analytics used by U.S. TV & CTV advertisers.  
-- Planned / executed full QA lifecycle over > 50 bi‑weekly releases across QA, staging, and production.  
+- Planned/executed full QA lifecycle over > 50 bi‑weekly releases across QA, staging, and production.  
 - Built ~600‑case TestRail regression suite and exploratory charters, catching > 50 % of pre‑code‑freeze issues.  
 - Ran Snowflake SQL & differential checks on 40 M+ audience datasets, eliminating cross‑env data drift.  
-- Root‑caused complex ETL / SQL / UDF regressions, cutting data bugs by **30 %**.  
+- Root‑caused complex ETL/SQL/UDF regressions, cutting data bugs by **30 %**.  
 - Added high‑value Cypress smoke automation (~10 % cov.).  
 - Coordinated RC deployments and go/no‑go calls across EST ↔ AMT time zones.
 
